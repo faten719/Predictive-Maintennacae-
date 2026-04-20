@@ -1,4 +1,4 @@
- #Machine Failure Prediction (Predictive Maintenance) 📊
+Machine Failure Prediction (Predictive Maintenance) 📊
  
 📝 Project Overview
 This project focuses on the analysis and prediction of machine failure using industrial sensor data. The goal is to build a machine learning model capable of predicting when a machine is likely to fail, which is a critical application in industrial mechanical engineering (Predictive Maintenance).
